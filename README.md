@@ -89,3 +89,13 @@ Interpretação estratégica de indicadores
 Estruturação de dashboards orientados à tomada de decisão
 
 O objetivo principal foi transformar dados brutos em informações acionáveis por meio de uma abordagem estruturada e analítica.
+
+
+<img width="1324" height="744" alt="8 - Análise de Produtos" src="https://github.com/user-attachments/assets/03da4876-0f48-485f-b8d9-afad04d38876" />
+<img width="1310" height="741" alt="7 - Performance de Vendas + Tooltip" src="https://github.com/user-attachments/assets/8de9655d-6b3c-4a5d-81c5-a8adfdfd8253" />
+<img width="1313" height="738" alt="6 - Performance de Vendas Drill down" src="https://github.com/user-attachments/assets/57a7f5c1-3b12-4902-b25e-5763a261205c" />
+<img width="1312" height="738" alt="5 - Performance de Vendas" src="https://github.com/user-attachments/assets/43f19927-1ebe-474f-a0df-4214f06f32cb" />
+<img width="1304" height="732" alt="4 - Visão Geral + Tooltip 2" src="https://github.com/user-attachments/assets/e8075818-db96-40d8-a1ab-1fb25937dd41" />
+<img width="1313" height="736" alt="3 - Visão Geral + Tooltip" src="https://github.com/user-attachments/assets/55dcd1ff-94d6-4643-849e-e85d4fbc13ea" />
+<img width="1309" height="737" alt="2 - Visão Geral" src="https://github.com/user-attachments/assets/04c7d0c2-966d-4f1d-bbc5-61b0ab737e02" />
+<img width="1312" height="740" alt="1 - Capa" src="https://github.com/user-attachments/assets/ec59db27-d0e2-4d80-aafe-e3dd624288a7" />
